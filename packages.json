@@ -8,7 +8,7 @@
       "arch": "armadaxp",
       "os_min_ver": "7.0-40000",
       "os_max_ver": "",
-      "link": "https://github.com/agkrid/netbird-synology-repo/raw/refs/heads/main/NetBirdClient-0.59.2-1-armadaxp.spk",
+      "link": "https://agkrid.github.io/netbird-synology-repo/NetBirdClient-0.59.2-1-armadaxp.spk",
       "checksum": "SHA256:83146f0213e4df365d99e7b467c9b9725fe4c3cc86bdb7c20b1d68f6b8f13138",
       "size": 12323538
     }
